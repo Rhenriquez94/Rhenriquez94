@@ -7,7 +7,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -20,8 +20,8 @@
 - 📦 Mis proyectos incluyen **monitoreo de precios**, **dashboards financieros** y pipelines de **ingesta de datos en tiempo real**.
 - 🌐 Actualmente estoy fortaleciendo mis habilidades backend con **FastAPI** y **APIs autenticadas con JWT**, conectadas a **PostgreSQL en AWS**.
 - 📚 Siempre estoy aprendiendo sobre **arquitecturas cloud**, **modelado de datos** y **buenas prácticas de automatización**.
-- 🤝 Estoy abierto a nuevas oportunidades laborales. Aquí puedes ver [MI CV](#).
-- 🔗 También puedes visitar [MI SITIO WEB](#) para ver mi portafolio y proyectos personales.
+- 🤝 Estoy abierto a nuevas oportunidades laborales. Aquí puedes descargar mi CV <a href = "https://docs.google.com/document/d/1CO9_jao4oNlc2bm9SqOUSZXVfypxCoyc6gAuSyvnpEQ/edit?usp=sharing">LINK</a> 
+
 <br>
 
 
