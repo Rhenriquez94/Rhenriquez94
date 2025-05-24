@@ -40,11 +40,16 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=js,html,css,react"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind"/>
   </a> 
 	<br>
    <a href="#" target="_blank">   
-     <img alt="#" src="https://skillicons.dev/icons?i= py,aws,gcp,dynamodb">
+     <img alt="#" src="https://skillicons.dev/icons?i=py,aws,gcp,dynamodb,fastapi,postgres,mysql">
+   </a>
+
+   <br>
+   <a href="#" target="_blank">   
+     <img alt="#" src="https://skillicons.dev/icons?i=linux,ubuntu,vscode">
    </a>
 
 
