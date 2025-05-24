@@ -40,64 +40,13 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react"/>
   </a> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="C++" src="https://skillicons.dev/icons?i=py">
-  </a> 
-  &emsp;
-  <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-  <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
+	<br>
    <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-  <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
-   </a>
-
-   <a href="#" target="_blank">   
-     <img alt="https://skillicons.dev/icons?i=dynamodb" src="https://skillicons.dev/icons?i=dynamodb">
+     <img alt="#" src="https://skillicons.dev/icons?i= py,aws,gcp,dynamodb">
    </a>
 
 
-
-   
-  &emsp;
-</p>
-
-
-<br> 
 
 ---
