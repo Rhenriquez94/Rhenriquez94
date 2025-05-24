@@ -40,7 +40,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a> 
   &emsp;
   <a href="#" target="_blank"> 
